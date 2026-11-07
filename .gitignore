@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+groq_api.txt
+api.txt
+deepseek_api.txt
+.env
+.idea/
+.vscode/
